@@ -1,2 +1,2 @@
 # Karthstone/Fartstone
-You can check Fartstone diagram for class diagram
+You can check Fartstone.jpeg for class diagram
